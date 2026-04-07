@@ -8,7 +8,7 @@ public class Sheep implements Animal{
         this.legs = 4;
         this.sound = "Baa";
         this.food = "Grass";
-        this.name = "Pejaaaaa";
+        this.name = "Josh";
     }
 
     public Sheep(Sheep sheep) {
